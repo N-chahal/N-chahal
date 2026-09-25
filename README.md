@@ -5,7 +5,7 @@ Data Analyst | Business Analyst | Marketing Analytics | Python | SQL | Power BI
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&width=600&lines=Data+Analytics+Enthusiast;Power+BI+Developer;Python+%7C+SQL+%7C+Excel;Marketing+Analytics;Business+Intelligence" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&width=600&lines=Data+Analytics+Enthusiast;Power+BI;Python+%7C+SQL+%7C+Excel;Marketing+Analytics;Business+Intelligence" />
 </p>
 
 ---
