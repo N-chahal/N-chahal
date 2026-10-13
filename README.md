@@ -10,77 +10,90 @@ Data Analyst | Business Analyst | Marketing Analytics | Python | SQL | Power BI
 
 ---
 
-## 👩 About Me
+Aspiring Data Analyst | Digital Marketing Professional with 8 Years of Experience
 
-✔ 7+ Years in Digital Marketing
+I am a digital marketing professional transitioning into data analytics, with an MBA in Marketing and hands-on training in SQL, Power BI, Microsoft Excel, and Python.
 
-✔ Transitioning into Data Analytics
+My background in digital marketing has given me experience with campaign performance, website traffic, SEO, and marketing KPIs. I am developing my analytical skills to turn data into meaningful insights that support better business decisions.
 
-✔ SQL | Python | Power BI | Excel
+🛠️ Technical Skills
 
-✔ Marketing Analytics
+Data Analysis: SQL, Microsoft Excel, Python
 
-✔ Dashboard Development
+Business Intelligence: Power BI, DAX, Power Query
 
-✔ Data Cleaning
+Python Libraries: Pandas, NumPy
 
-✔ Data Visualization
+Analytics: Data Cleaning, Data Transformation, Data Visualization, KPI Analysis
 
-✔ Business Intelligence
+Marketing Analytics: Campaign Performance, Website Traffic, SEO Metrics
 
----
+📂 Featured Projects
 
-## 🚀 Tech Stack
+📊 ShopNest Store — Power BI Dashboard
 
-<p>
+An e-commerce analytics project exploring sales, products, customers, orders, payments, delivery performance, sellers, and customer reviews.
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+Tools: Power BI, DAX, Power Query, CSV
 
-</p>
+Focus areas:
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black">
+Sales and revenue analysis
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel">
+Product and category performance
 
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
+Delivery and shipping trends
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+Customer reviews and payment analysis
 
----
+Monthly and category-level comparisons
 
-## 📂 Featured Projects
+🐍 Python Fundamentals Capstone
 
-📊 SQL Data Analysis
+A Python data analysis exercise focused on working with structured data and performing common data preparation and transformation tasks.
 
-📈 Power BI Dashboard
+Tools: Python, Pandas, NumPy, Jupyter Notebook
 
-🐍 Python Data Cleaning
+Focus areas:
 
-📉 Excel Dashboard
+DataFrame creation and manipulation
 
-📦 Marketing Analytics
+Missing-value handling
 
----
+Data transformation and merging
 
-## 🎓 Certifications
+Conditional calculations and filtering
 
-✔ Data Analytics + Python
+Employee and project data analysis
 
-✔ SQL
+🎓 Certification
 
-✔ Power BI
+Data Analytics + Python
+Completed: 7 May 2026
 
----
+Add the official issuing organization and credential link after verifying them against the certificate.
 
-## 🌐 Connect With Me
+💼 Professional Background
 
-[LinkedIn](YOUR-LINK)
+Digital Marketing Executive — Vismaad Mediatech Pvt. Ltd.
+October 2018 – Present
 
-[GitHub](https://github.com/N-chahal)
+My professional experience includes digital marketing, SEO, campaign monitoring, website performance analysis, and marketing KPI tracking.
 
-Email:
-nnishaa12cchahall@gmail.com
+I am interested in opportunities where I can combine my marketing experience with data analysis to identify trends, evaluate performance, and generate actionable insights.
 
----
+🎯 Career Interests
 
-⭐ Always learning and building data-driven solutions.
+Data Analyst
+
+Marketing Analyst
+
+Business Intelligence Analyst
+
+🤝 Connect With Me
+
+LinkedIn
+
+GitHub Repositories
+
+I am continuously learning, building projects, and strengthening my data analytics portfolio.
